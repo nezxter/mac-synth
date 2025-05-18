@@ -4,7 +4,10 @@
   "public": true,
   "cleanUrls": true,
   "trailingSlash": false,
+  "outputDirectory": ".",
+  "buildCommand": false,
+  "framework": null,
   "github": {
     "silent": true
   }
-} 
+}
